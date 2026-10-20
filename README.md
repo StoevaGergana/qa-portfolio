@@ -43,7 +43,7 @@ SoftUni and other courses
 
 ### 🧪 Test Cases  
 Manual test scenarios  
-🔗 [View Test Cases](https://github.com/StoevaGergana/qa-testing-portfolio/taskboard/tree/main)  
+🔗 [View Test Cases](https://github.com/StoevaGergana/qa-testing-portfolio/tree/main)  
 
 ---
 
