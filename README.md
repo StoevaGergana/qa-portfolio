@@ -43,7 +43,7 @@ SoftUni and other courses
 
 ### 🧪 Test Cases  
 Manual test scenarios  
-🔗 [View Test Cases](https://github.com/StoevaGergana/qa-api-testing-portfolio/tree/main/taskboard/test-cases-and-test-runs)  
+🔗 [View Test Cases](https://github.com/StoevaGergana/taskboard/taskboard-test-cases.xlsx)  
 
 ---
 
